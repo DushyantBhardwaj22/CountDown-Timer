@@ -1,7 +1,5 @@
 import React from "react";
 
-
-
 const Clock=({ timer}) => {
     return(
             <section className="container">

@@ -4,6 +4,13 @@
   
 
 }
+#shownTime{
+  text-align: center;
+  text-decoration: dotted;
+  margin: auto;
+  font-style: italic;
+
+}
 .app{
   color: rgb(8, 8, 8);
   background-color: antiquewhite;
@@ -16,4 +23,6 @@
 small {
   font-size: larger;
 }
-
+.Clock{
+  margin-top: auto;
+}
