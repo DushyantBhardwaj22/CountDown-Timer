@@ -6,8 +6,9 @@ const Clock=({ timer}) => {
                 <section className="time">
                     <div className="Clock">
                     <section>
-                        <p id="shownTime">{timer}</p>
-                        <small className="sechead">Seconds</small>
+                        <div><p id="shownTime">{timer}</p>
+                        <small className="sechead">Seconds</small></div>
+                        
                     </section>
                     </div>
                 </section>
